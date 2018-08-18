@@ -27,14 +27,14 @@ Through my research it appears that while these problems are popular coding chal
 
 | Prizes  | Quantity  |  Points  |
 |---|---|---|
-| DSS Sticker (Hex)  |   |   |
-| SO Sticker (Small)  |   |   |
-| SO Sticker (Medium)  |   |   |
-| SO Sticker (Large)  |   |   |
-| SO Pen |   |   |
-| SO Silicone Mobile Pocket  |   |   |
-| SO Water Bottle   |   |   |
-| SO T-Shirt (Small)  |   |   |
-| SO T-Shirt (Medium)  |   |   |
-| SO T-Shirt (Large)  |   |   |
-| SO Leather Bound Journal  |   |   |
+| DSS Sticker (Hex)  | 42x  |  1 |
+| SO Sticker (Small)  |  22x | 1  |
+| SO Sticker (Medium)  |  21x | 2  |
+| SO Sticker (Large)  | 23x  | 3  |
+| SO Pen |  31x | 3  |
+| SO Silicone Mobile Pocket  | 27x  | 5 |
+| SO T-Shirt (Small)  | 9x  | 15  |
+| SO T-Shirt (Medium)  | 5x  | 15  |
+| SO T-Shirt (Large)  | 6x  |  15 |
+| SO Water Bottle   | 9x  | 25  |
+| SO Leather Bound Journal  | 6x  | 50  |
