@@ -54,3 +54,67 @@
  create mode 100644 dss_coding_challenge.Rproj
 [1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004httough   ch .gitign   ignore[?1l>[?2004l
 ]2;touch .gitignore]1;touch[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit commit -m "First PUrsh    ush"[?1l>[?2004l
+]2;git commit -m "First Push"]1;git[master f2682eb] First Push
+ 6 files changed, 169 insertions(+)
+ create mode 100644 .Rproj.user/2C5404D1/sources/prop/86CA8CC
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/7306CF8A
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/7306CF8A-contents
+ create mode 100644 .gitignore
+[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit push     g  ggit remote add origin https://github.com/ [Kddylanjm/dss_coding_challenge.git[?1l>[?2004l
+]2;git remote add origin https://github.com/dylanjm/dss_coding_challenge.git]1;git[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit push -u origin master[?1l>[?2004l
+]2;git push -u origin master]1;gitEnumerating objects: 62, done.
+Counting objects:   1% (1/62)   Counting objects:   3% (2/62)   Counting objects:   4% (3/62)   Counting objects:   6% (4/62)   Counting objects:   8% (5/62)   Counting objects:   9% (6/62)   Counting objects:  11% (7/62)   Counting objects:  12% (8/62)   Counting objects:  14% (9/62)   Counting objects:  16% (10/62)   Counting objects:  17% (11/62)   Counting objects:  19% (12/62)   Counting objects:  20% (13/62)   Counting objects:  22% (14/62)   Counting objects:  24% (15/62)   Counting objects:  25% (16/62)   Counting objects:  27% (17/62)   Counting objects:  29% (18/62)   Counting objects:  30% (19/62)   Counting objects:  32% (20/62)   Counting objects:  33% (21/62)   Counting objects:  35% (22/62)   Counting objects:  37% (23/62)   Counting objects:  38% (24/62)   Counting objects:  40% (25/62)   Counting objects:  41% (26/62)   Counting objects:  43% (27/62)   Counting objects:  45% (28/62)   Counting objects:  46% (29/62)   Counting objects:  48% (30/62)   Counting objects:  50% (31/62)   Counting objects:  51% (32/62)   Counting objects:  53% (33/62)   Counting objects:  54% (34/62)   Counting objects:  56% (35/62)   Counting objects:  58% (36/62)   Counting objects:  59% (37/62)   Counting objects:  61% (38/62)   Counting objects:  62% (39/62)   Counting objects:  64% (40/62)   Counting objects:  66% (41/62)   Counting objects:  67% (42/62)   Counting objects:  69% (43/62)   Counting objects:  70% (44/62)   Counting objects:  72% (45/62)   Counting objects:  74% (46/62)   Counting objects:  75% (47/62)   Counting objects:  77% (48/62)   Counting objects:  79% (49/62)   Counting objects:  80% (50/62)   Counting objects:  82% (51/62)   Counting objects:  83% (52/62)   Counting objects:  85% (53/62)   Counting objects:  87% (54/62)   Counting objects:  88% (55/62)   Counting objects:  90% (56/62)   Counting objects:  91% (57/62)   Counting objects:  93% (58/62)   Counting objects:  95% (59/62)   Counting objects:  96% (60/62)   Counting objects:  98% (61/62)   Counting objects: 100% (62/62)   Counting objects: 100% (62/62), done.
+Delta compression using up to 4 threads.
+Compressing objects:   1% (1/56)   Compressing objects:   3% (2/56)   Compressing objects:   5% (3/56)   Compressing objects:   7% (4/56)   Compressing objects:   8% (5/56)   Compressing objects:  10% (6/56)   Compressing objects:  12% (7/56)   Compressing objects:  14% (8/56)   Compressing objects:  16% (9/56)   Compressing objects:  17% (10/56)   Compressing objects:  19% (11/56)   Compressing objects:  21% (12/56)   Compressing objects:  23% (13/56)   Compressing objects:  25% (14/56)   Compressing objects:  26% (15/56)   Compressing objects:  28% (16/56)   Compressing objects:  30% (17/56)   Compressing objects:  32% (18/56)   Compressing objects:  33% (19/56)   Compressing objects:  35% (20/56)   Compressing objects:  37% (21/56)   Compressing objects:  39% (22/56)   Compressing objects:  41% (23/56)   Compressing objects:  42% (24/56)   Compressing objects:  44% (25/56)   Compressing objects:  46% (26/56)   Compressing objects:  48% (27/56)   Compressing objects:  50% (28/56)   Compressing objects:  51% (29/56)   Compressing objects:  53% (30/56)   Compressing objects:  55% (31/56)   Compressing objects:  57% (32/56)   Compressing objects:  58% (33/56)   Compressing objects:  60% (34/56)   Compressing objects:  62% (35/56)   Compressing objects:  64% (36/56)   Compressing objects:  66% (37/56)   Compressing objects:  67% (38/56)   Compressing objects:  69% (39/56)   Compressing objects:  71% (40/56)   Compressing objects:  73% (41/56)   Compressing objects:  75% (42/56)   Compressing objects:  76% (43/56)   Compressing objects:  78% (44/56)   Compressing objects:  80% (45/56)   Compressing objects:  82% (46/56)   Compressing objects:  83% (47/56)   Compressing objects:  85% (48/56)   Compressing objects:  87% (49/56)   Compressing objects:  89% (50/56)   Compressing objects:  91% (51/56)   Compressing objects:  92% (52/56)   Compressing objects:  94% (53/56)   Compressing objects:  96% (54/56)   Compressing objects:  98% (55/56)   Compressing objects: 100% (56/56)   Compressing objects: 100% (56/56), done.
+Writing objects:   1% (1/62)   Writing objects:   3% (2/62)   Writing objects:   4% (3/62)   Writing objects:   6% (4/62)   Writing objects:   8% (5/62)   Writing objects:   9% (6/62)   Writing objects:  11% (7/62)   Writing objects:  12% (8/62)   Writing objects:  14% (9/62)   Writing objects:  16% (10/62)   Writing objects:  17% (11/62)   Writing objects:  19% (12/62)   Writing objects:  20% (13/62)   Writing objects:  22% (14/62)   Writing objects:  24% (15/62)   Writing objects:  25% (16/62)   Writing objects:  27% (17/62)   Writing objects:  29% (18/62)   Writing objects:  30% (19/62)   Writing objects:  32% (20/62)   Writing objects:  33% (21/62)   Writing objects:  35% (22/62)   Writing objects:  38% (24/62)   Writing objects:  40% (25/62)   Writing objects:  45% (28/62)   Writing objects:  46% (29/62)   Writing objects:  48% (30/62)   Writing objects:  50% (31/62)   Writing objects:  51% (32/62)   Writing objects:  53% (33/62)   Writing objects:  54% (34/62)   Writing objects:  56% (35/62)   Writing objects:  58% (36/62)   Writing objects:  59% (37/62)   Writing objects:  61% (38/62)   Writing objects:  62% (39/62)   Writing objects:  64% (40/62)   Writing objects:  66% (41/62)   Writing objects:  67% (42/62)   Writing objects:  69% (43/62)   Writing objects:  70% (44/62)   Writing objects:  72% (45/62)   Writing objects:  74% (46/62)   Writing objects:  75% (47/62)   Writing objects:  77% (48/62)   Writing objects:  79% (49/62)   Writing objects:  80% (50/62)   Writing objects:  82% (51/62)   Writing objects:  83% (52/62)   Writing objects:  85% (53/62)   Writing objects:  87% (54/62)   Writing objects:  88% (55/62)   Writing objects:  90% (56/62)   Writing objects:  91% (57/62)   Writing objects:  93% (58/62)   Writing objects:  95% (59/62)   Writing objects:  96% (60/62)   Writing objects:  98% (61/62)   Writing objects: 100% (62/62)   Writing objects: 100% (62/62), 10.56 KiB | 105.00 KiB/s, done.
+Total 62 (delta 12), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/12)   [Kremote: Resolving deltas:   8% (1/12)   [Kremote: Resolving deltas:  16% (2/12)   [Kremote: Resolving deltas:  25% (3/12)   [Kremote: Resolving deltas:  41% (5/12)   [Kremote: Resolving deltas:  50% (6/12)   [Kremote: Resolving deltas:  91% (11/12)   [Kremote: Resolving deltas: 100% (12/12)   [Kremote: Resolving deltas: 100% (12/12), done.[K
+To https://github.com/dylanjm/dss_coding_challenge.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit rm --cached .Rproj.user[1m/[0m[0m [?1l>[?2004l
+]2;git rm --cached .Rproj.user]1;gitfatal: not removing '.Rproj.user' recursively without -r
+[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hgit rm --cached .Rproj.user[1C[1C --cached .Rproj.user[21D- --cached .Rproj.user[21Dr --cached .Rproj.user[21D[?1l>[?2004l
+]2;git rm -r --cached .Rproj.user]1;gitrm '.Rproj.user/2C5404D1/console06/19C274D0'
+rm '.Rproj.user/2C5404D1/console06/19C274D0.env'
+rm '.Rproj.user/2C5404D1/console06/INDEX001'
+rm '.Rproj.user/2C5404D1/pcs/files-pane.pper'
+rm '.Rproj.user/2C5404D1/pcs/source-pane.pper'
+rm '.Rproj.user/2C5404D1/pcs/windowlayoutstate.pper'
+rm '.Rproj.user/2C5404D1/pcs/workbench-pane.pper'
+rm '.Rproj.user/2C5404D1/rmd-outputs'
+rm '.Rproj.user/2C5404D1/saved_source_markers'
+rm '.Rproj.user/2C5404D1/sources/prop/24CF9AD8'
+rm '.Rproj.user/2C5404D1/sources/prop/2E4DF425'
+rm '.Rproj.user/2C5404D1/sources/prop/86CA8CC'
+rm '.Rproj.user/2C5404D1/sources/prop/FC91D983'
+rm '.Rproj.user/2C5404D1/sources/prop/INDEX'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/4AFB58C4'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/4AFB58C4-contents'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/597B716B'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/597B716B-contents'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/7306CF8A'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/7306CF8A-contents'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/AD7464DF'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/AD7464DF-contents'
+rm '.Rproj.user/2C5404D1/sources/s-4AFE8155/lock_file'
+rm '.Rproj.user/D8B49295/sources/prop/41AB1D1E'
+rm '.Rproj.user/D8B49295/sources/prop/527D1D1B'
+rm '.Rproj.user/D8B49295/sources/prop/A8108685'
+rm '.Rproj.user/D8B49295/sources/prop/D8980189'
+rm '.Rproj.user/D8B49295/sources/prop/E36975D5'
+rm '.Rproj.user/D8B49295/sources/prop/INDEX'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/19A88AA0-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/789A53FF-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/84FAE618-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/9581D4B4-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/95A01564-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/C970A65F'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/C970A65F-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/EAB76786'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/EAB76786-contents'
+rm '.Rproj.user/D8B49295/sources/s-E8FE9EE8/lock_file'
+rm '.Rproj.user/shared/notebooks/patch-chunk-names'
+rm '.Rproj.user/shared/notebooks/paths'
+[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit add .[?1l>[?2004l
