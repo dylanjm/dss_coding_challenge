@@ -3,3 +3,54 @@
 [1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit add READEME   ME.md[?1l>[?2004l
 ]2;git add README.md]1;gitfatal: pathspec 'README.md' did not match any files
 [1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit commit -m "First Push"[?1l>[?2004l
+]2;git commit -m "First Push"]1;git[master (root-commit) 608d04c] First Push
+ 46 files changed, 653 insertions(+)
+ create mode 100644 .Rproj.user/2C5404D1/console06/19C274D0
+ create mode 100644 .Rproj.user/2C5404D1/console06/19C274D0.env
+ create mode 100644 .Rproj.user/2C5404D1/console06/INDEX001
+ create mode 100644 .Rproj.user/2C5404D1/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/2C5404D1/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/2C5404D1/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/2C5404D1/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/2C5404D1/rmd-outputs
+ create mode 100644 .Rproj.user/2C5404D1/saved_source_markers
+ create mode 100644 .Rproj.user/2C5404D1/sources/prop/24CF9AD8
+ create mode 100644 .Rproj.user/2C5404D1/sources/prop/2E4DF425
+ create mode 100644 .Rproj.user/2C5404D1/sources/prop/FC91D983
+ create mode 100644 .Rproj.user/2C5404D1/sources/prop/INDEX
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/4AFB58C4
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/4AFB58C4-contents
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/597B716B
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/597B716B-contents
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/AD7464DF
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/AD7464DF-contents
+ create mode 100644 .Rproj.user/2C5404D1/sources/s-4AFE8155/lock_file
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/41AB1D1E
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/527D1D1B
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/A8108685
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/D8980189
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/E36975D5
+ create mode 100644 .Rproj.user/D8B49295/sources/prop/INDEX
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/19A88AA0-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/789A53FF-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/84FAE618-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/9581D4B4-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/95A01564-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/C970A65F
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/C970A65F-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/EAB76786
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/EAB76786-contents
+ create mode 100644 .Rproj.user/D8B49295/sources/s-E8FE9EE8/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 challenges/challenge_01.R
+ create mode 100644 challenges/challenge_02.R
+ create mode 100644 challenges/challenge_03.R
+ create mode 100644 challenges/challenge_04.R
+ create mode 100644 challenges/challenge_05.R
+ create mode 100644 challenges/challenge_06.R
+ create mode 100644 challenges/challenge_07.R
+ create mode 100644 dss_coding_challenge.Rproj
+[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004httough   ch .gitign   ignore[?1l>[?2004l
+]2;touch .gitignore]1;touch[1m[7m%[27m[1m[0m                                                                                           ]2;DJM@DJM: ~/Documents/Code/dss_coding_challenge]1;..ing_challenge[0m[27m[24m[J[31m*[00m[00m[32m[master][00m[36m[~/Documents/Code/dss_coding_challenge][00m[1m$[0m [K[?1h=[?2004hggit add .[?1l>[?2004l
