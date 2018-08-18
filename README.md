@@ -23,10 +23,18 @@ Given the public nature of the challenge, it is paramount that we all abide by a
 
 Through my research it appears that while these problems are popular coding challenges throughout the web, there is little documentation showing examples done in R. This is a great opportunity to really learn the basics and nuances of the R language. The whole internet can be your resource (remember no cheating!) and if you approach these problems through an "R Lense" your experience will be invaluable. 
 
-## Prizes
+## Merchandize & Points
 
 | Prizes  | Quantity  |  Points  |
 |---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| DSS Sticker (Hex)  |   |   |
+| SO Sticker (Small)  |   |   |
+| SO Sticker (Medium)  |   |   |
+| SO Sticker (Large)  |   |   |
+| SO Pen |   |   |
+| SO Silicone Mobile Pocket  |   |   |
+| SO Water Bottle   |   |   |
+| SO T-Shirt (Small)  |   |   |
+| SO T-Shirt (Medium)  |   |   |
+| SO T-Shirt (Large)  |   |   |
+| SO Leather Bound Journal  |   |   |
