@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534610914710.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3578917803",
+    "id" : "4AFB58C4",
+    "lastKnownWriteTime" : 1534610339,
+    "last_content_update" : 1534610339,
+    "path" : "~/Documents/Code/dss_coding_challenge/challenges/challenge_05.R",
+    "project_path" : "challenges/challenge_05.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
