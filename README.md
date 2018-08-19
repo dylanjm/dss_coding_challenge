@@ -23,6 +23,8 @@ Given the public nature of the challenge, it is paramount that we all abide by a
 
 Through my research it appears that while these problems are popular coding challenges throughout the web, there is little documentation showing examples done in R. This is a great opportunity to really learn the basics and nuances of the R language. The whole internet can be your resource (remember no cheating!) and if you approach these problems through an "R Lense" your experience will be invaluable. 
 
+If you come across any errors or have suggestions to clarify certain problems. Please open up an issue on my original repository and I can make those changes. 
+
 ## Merchandize & Points
 
 | Prizes  | Quantity  |  Points  |
@@ -38,3 +40,11 @@ Through my research it appears that while these problems are popular coding chal
 | SO T-Shirt (Large)  | 6x  |  15 |
 | SO Water Bottle   | 9x  | 25  |
 | SO Leather Bound Journal  | 6x  | 50  |
+
+## Leaderboard
+
+| Name  | Total Points  |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
