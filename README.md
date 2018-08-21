@@ -11,6 +11,14 @@ So here's the deal. I still have a bunch of StackOverflow merchandize that I nee
 3. Work through the challenges and whenever you solve one, push your code to your repository. 
 4. Continue playing ad naseua and earn a bunch of cool prizes (limited quantity so particpate quickly)!
 
+## Tips & Tricks
+
+1. These challenges are designed to help illustrate the things R does well. As you go along, you will start to develop a sense of what that means and use that to your advantage. 
+2. Therefore, most of theses challenges can be solved in just a few lines of code. If you find yourself with a large rat's nest of for-loops and if statements, take a moment and refer back to tip 1. 
+3. These challenges are also designed to get you to utilize the resources available to you. This means I have tried to minimize the discussion that begins each problem. Use this to your advantage, there is a right answer but how you get that answer is up to you. 
+4. Reuse your code, as you go along you will find opportunity to reuse code which will help you commit to memory certain functions and frameworks. 
+5. These challenges run the gambit from extremely easy to insanely difficult. Don't get frustrated, these are merely opportunities to gain new skills. 
+
 ## Additional Info
 
 Currently, these problems are designed to be solved using the R programming language, but they are flexible enough to be solved using any language you desire. For example, if you wish to do these challenges in Python, all you need to do is save the `challenge_*.R` files as `challenge_*.py` files. 

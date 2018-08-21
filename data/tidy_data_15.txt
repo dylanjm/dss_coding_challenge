@@ -1,0 +1,353 @@
+Year,type,consumption
+2010,Beer,1.13
+2009,Beer,1.17
+2008,Beer,1.2
+2007,Beer,1.21
+2006,Beer,1.2
+2005,Beer,1.19
+2004,Beer,1.21
+2003,Beer,1.21
+2002,Beer,1.23
+2001,Beer,1.23
+2e3,Beer,1.22
+1999,Beer,1.23
+1998,Beer,1.22
+1997,Beer,1.22
+1996,Beer,1.23
+1995,Beer,1.23
+1994,Beer,1.25
+1993,Beer,1.26
+1992,Beer,1.29
+1991,Beer,1.29
+1990,Beer,1.34
+1989,Beer,1.31
+1988,Beer,1.33
+1987,Beer,1.34
+1986,Beer,1.34
+1985,Beer,1.33
+1984,Beer,1.35
+1983,Beer,1.37
+1982,Beer,1.38
+1981,Beer,1.39
+1980,Beer,1.38
+1979,Beer,1.37
+1978,Beer,1.33
+1977,Beer,1.29
+1976,Beer,1.27
+1975,Beer,1.26
+1974,Beer,1.25
+1973,Beer,1.2
+1972,Beer,1.17
+1971,Beer,1.15
+1970,Beer,1.14
+1969,Beer,1.12
+1968,Beer,1.09
+1967,Beer,1.07
+1966,Beer,1.06
+1965,Beer,1.04
+1964,Beer,1.04
+1963,Beer,1.01
+1962,Beer,0.99
+1961,Beer,0.97
+1960,Beer,0.99
+1959,Beer,1
+1958,Beer,0.96
+1957,Beer,0.97
+1956,Beer,1
+1955,Beer,1.01
+1954,Beer,1.01
+1953,Beer,1.04
+1952,Beer,1.04
+1951,Beer,1.03
+1950,Beer,1.04
+1949,Beer,1.06
+1948,Beer,1.07
+1947,Beer,1.11
+1946,Beer,1.07
+1945,Beer,1.17
+1944,Beer,1.13
+1943,Beer,1
+1942,Beer,0.9
+1941,Beer,0.81
+1940,Beer,0.73
+1939,Beer,0.75
+1938,Beer,0.75
+1937,Beer,0.82
+1936,Beer,0.79
+1935,Beer,0.68
+1934,Beer,0.61
+1919,Beer,1.08
+1915,Beer,1.48
+1910,Beer,1.47
+1905,Beer,1.31
+1900,Beer,1.19
+1895,Beer,1.17
+1890,Beer,0.9
+1880,Beer,0.56
+1870,Beer,0.44
+1860,Beer,0.27
+1850,Beer,0.14
+2010,Wine,0.39
+2009,Wine,0.38
+2008,Wine,0.38
+2007,Wine,0.38
+2006,Wine,0.37
+2005,Wine,0.36
+2004,Wine,0.35
+2003,Wine,0.34
+2002,Wine,0.33
+2001,Wine,0.31
+2e3,Wine,0.31
+1999,Wine,0.31
+1998,Wine,0.3
+1997,Wine,0.3
+1996,Wine,0.3
+1995,Wine,0.29
+1994,Wine,0.28
+1993,Wine,0.28
+1992,Wine,0.3
+1991,Wine,0.3
+1990,Wine,0.33
+1989,Wine,0.34
+1988,Wine,0.36
+1987,Wine,0.38
+1986,Wine,0.39
+1985,Wine,0.38
+1984,Wine,0.37
+1983,Wine,0.36
+1982,Wine,0.36
+1981,Wine,0.35
+1980,Wine,0.34
+1979,Wine,0.32
+1978,Wine,0.31
+1977,Wine,0.29
+1976,Wine,0.32
+1975,Wine,0.32
+1974,Wine,0.31
+1973,Wine,0.31
+1972,Wine,0.3
+1971,Wine,0.31
+1970,Wine,0.27
+1969,Wine,0.26
+1968,Wine,0.26
+1967,Wine,0.25
+1966,Wine,0.24
+1965,Wine,0.24
+1964,Wine,0.24
+1963,Wine,0.23
+1962,Wine,0.22
+1961,Wine,0.23
+1960,Wine,0.22
+1959,Wine,0.22
+1958,Wine,0.22
+1957,Wine,0.22
+1956,Wine,0.22
+1955,Wine,0.22
+1954,Wine,0.21
+1953,Wine,0.2
+1952,Wine,0.21
+1951,Wine,0.2
+1950,Wine,0.23
+1949,Wine,0.22
+1948,Wine,0.2
+1947,Wine,0.16
+1946,Wine,0.24
+1945,Wine,0.2
+1944,Wine,0.18
+1943,Wine,0.17
+1942,Wine,0.22
+1941,Wine,0.18
+1940,Wine,0.16
+1939,Wine,0.14
+1938,Wine,0.13
+1937,Wine,0.13
+1936,Wine,0.12
+1935,Wine,0.09
+1934,Wine,0.07
+1919,Wine,0.12
+1915,Wine,0.14
+1910,Wine,0.17
+1905,Wine,0.13
+1900,Wine,0.1
+1895,Wine,0.11
+1890,Wine,0.14
+1880,Wine,0.14
+1870,Wine,0.1
+1860,Wine,0.1
+1850,Wine,0.08
+2010,Spirits,0.74
+2009,Spirits,0.74
+2008,Spirits,0.73
+2007,Spirits,0.73
+2006,Spirits,0.71
+2005,Spirits,0.7
+2004,Spirits,0.68
+2003,Spirits,0.67
+2002,Spirits,0.65
+2001,Spirits,0.64
+2e3,Spirits,0.64
+1999,Spirits,0.63
+1998,Spirits,0.62
+1997,Spirits,0.62
+1996,Spirits,0.63
+1995,Spirits,0.63
+1994,Spirits,0.65
+1993,Spirits,0.68
+1992,Spirits,0.71
+1991,Spirits,0.71
+1990,Spirits,0.77
+1989,Spirits,0.77
+1988,Spirits,0.79
+1987,Spirits,0.82
+1986,Spirits,0.84
+1985,Spirits,0.9
+1984,Spirits,0.94
+1983,Spirits,0.96
+1982,Spirits,0.98
+1981,Spirits,1.02
+1980,Spirits,1.04
+1979,Spirits,1.06
+1978,Spirits,1.07
+1977,Spirits,1.06
+1976,Spirits,1.1
+1975,Spirits,1.11
+1974,Spirits,1.11
+1973,Spirits,1.1
+1972,Spirits,1.09
+1971,Spirits,1.12
+1970,Spirits,1.11
+1969,Spirits,1.13
+1968,Spirits,1.1
+1967,Spirits,1.05
+1966,Spirits,1.02
+1965,Spirits,0.99
+1964,Spirits,0.95
+1963,Spirits,0.91
+1962,Spirits,0.9
+1961,Spirits,0.86
+1960,Spirits,0.86
+1959,Spirits,0.84
+1958,Spirits,0.8
+1957,Spirits,0.8
+1956,Spirits,0.81
+1955,Spirits,0.77
+1954,Spirits,0.74
+1953,Spirits,0.77
+1952,Spirits,0.73
+1951,Spirits,0.78
+1950,Spirits,0.77
+1949,Spirits,0.7
+1948,Spirits,0.7
+1947,Spirits,0.76
+1946,Spirits,0.99
+1945,Spirits,0.88
+1944,Spirits,0.76
+1943,Spirits,0.66
+1942,Spirits,0.85
+1941,Spirits,0.71
+1940,Spirits,0.67
+1939,Spirits,0.62
+1938,Spirits,0.59
+1937,Spirits,0.64
+1936,Spirits,0.59
+1935,Spirits,0.43
+1934,Spirits,0.29
+1919,Spirits,0.76
+1915,Spirits,0.94
+1910,Spirits,0.96
+1905,Spirits,0.95
+1900,Spirits,0.77
+1895,Spirits,0.95
+1890,Spirits,0.95
+1880,Spirits,1.02
+1870,Spirits,1.53
+1860,Spirits,2.16
+1850,Spirits,1.88
+2010,All beverages,2.26
+2009,All beverages,2.29
+2008,All beverages,2.31
+2007,All beverages,2.31
+2006,All beverages,2.28
+2005,All beverages,2.24
+2004,All beverages,2.24
+2003,All beverages,2.22
+2002,All beverages,2.21
+2001,All beverages,2.18
+2e3,All beverages,2.18
+1999,All beverages,2.16
+1998,All beverages,2.14
+1997,All beverages,2.14
+1996,All beverages,2.16
+1995,All beverages,2.15
+1994,All beverages,2.18
+1993,All beverages,2.23
+1992,All beverages,2.3
+1991,All beverages,2.3
+1990,All beverages,2.45
+1989,All beverages,2.42
+1988,All beverages,2.48
+1987,All beverages,2.54
+1986,All beverages,2.58
+1985,All beverages,2.62
+1984,All beverages,2.65
+1983,All beverages,2.69
+1982,All beverages,2.72
+1981,All beverages,2.76
+1980,All beverages,2.76
+1979,All beverages,2.75
+1978,All beverages,2.71
+1977,All beverages,2.64
+1976,All beverages,2.69
+1975,All beverages,2.69
+1974,All beverages,2.67
+1973,All beverages,2.62
+1972,All beverages,2.56
+1971,All beverages,2.59
+1970,All beverages,2.52
+1969,All beverages,2.51
+1968,All beverages,2.45
+1967,All beverages,2.37
+1966,All beverages,2.32
+1965,All beverages,2.27
+1964,All beverages,2.23
+1963,All beverages,2.15
+1962,All beverages,2.11
+1961,All beverages,2.06
+1960,All beverages,2.07
+1959,All beverages,2.06
+1958,All beverages,1.98
+1957,All beverages,1.99
+1956,All beverages,2.03
+1955,All beverages,2
+1954,All beverages,1.96
+1953,All beverages,2.01
+1952,All beverages,1.98
+1951,All beverages,2.01
+1950,All beverages,2.04
+1949,All beverages,1.98
+1948,All beverages,1.97
+1947,All beverages,2.03
+1946,All beverages,2.3
+1945,All beverages,2.25
+1944,All beverages,2.07
+1943,All beverages,1.83
+1942,All beverages,1.97
+1941,All beverages,1.7
+1940,All beverages,1.56
+1939,All beverages,1.51
+1938,All beverages,1.47
+1937,All beverages,1.59
+1936,All beverages,1.5
+1935,All beverages,1.2
+1934,All beverages,0.97
+1919,All beverages,1.96
+1915,All beverages,2.56
+1910,All beverages,2.6
+1905,All beverages,2.39
+1900,All beverages,2.06
+1895,All beverages,2.23
+1890,All beverages,1.99
+1880,All beverages,1.72
+1870,All beverages,2.07
+1860,All beverages,2.53
+1850,All beverages,2.1
