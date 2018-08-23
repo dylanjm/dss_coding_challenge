@@ -53,6 +53,6 @@ If you come across any errors or have suggestions to clarify certain problems. P
 
 | Name  | Total Points  |
 |---|---|
-| Cody Jorgenson  |  12 |
+| Cody Jorgenson  |  72 |
 |   |   |
 |   |   |
