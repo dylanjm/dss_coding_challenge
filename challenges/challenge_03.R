@@ -5,7 +5,7 @@
 # Now we are given several pairs of values we want to calculate the sum for each pair.
 
 # Bonus:
-# Convert each string of pairs into numbers and find the sums
+# Handle the pairs as strings explicitly (i.e. do not read the pairs into a dataframe, but read the pairs in as a string and handle appropriatley)
 
 # Input Data contain pairs themselves - one pair at each line.
 
