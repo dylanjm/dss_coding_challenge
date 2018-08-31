@@ -53,6 +53,6 @@ If you come across any errors or have suggestions to clarify certain problems. P
 
 | Name  | Total Points  |
 |---|---|
-| Cody Jorgenson  |  83 |
-|   |   |
+| Cody Jorgenson  |  123 |
+|  Jason Fitzgerald | 15  |
 |   |   |
